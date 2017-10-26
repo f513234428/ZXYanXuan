@@ -1,2 +1,2 @@
 # ZXYanXuan
-仿网易严选App
+仿网易考拉App
